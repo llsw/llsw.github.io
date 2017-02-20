@@ -6,8 +6,8 @@ keywords: "game"
 biography: "We are game make teen."
 colophon: "Test"
 
-baseurl: "llsw.github.io"
-url: "llsw.github.io"
+baseurl: "https://llsw.github.io/"
+url: "https://llsw.github.io/"
 
 twitter_username: null
 github_username: llsw
