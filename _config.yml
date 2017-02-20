@@ -5,8 +5,8 @@ description: "This is a web to broadcast our game: sgoly."
 keywords: "game"
 biography: null
 colophon: "© llsw.lkgame.com <br> 2017"
-baseurl: "https://llsw.github.io/"
-url: "https://llsw.github.io/"
+baseurl: "https://llsw.github.io"
+url: "https://llsw.github.io"
 
 twitter_username: null
 github_username: llsw
