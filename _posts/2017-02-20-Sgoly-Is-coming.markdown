@@ -4,7 +4,7 @@ title: Sgoly is coming
 date: 2017-02-20 14:23
 comments: true
 external-url:
-categories: New
+categories: News
 ---
 After 3 month tring our game is coming to out now!
 
