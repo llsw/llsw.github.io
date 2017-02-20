@@ -3,7 +3,12 @@ title: "Sgoly"
 author: "githubnull"
 description: "This is a web to broadcast our game: sgoly."
 keywords: "game"
-biography: "We are game make teen."
+biography: "SiKun <a href="https://github.com/interfacekun"><img src="sikun_logo.png" width="16", height="16"></a>
+&&
+GreenLittle <a href="https://github.com/GreenLittle"><img src="lvyuc.png" width="16", height="16"></a>
+&&
+githubnull <a href="https://github.com/GitHubNull"><img src="githubnull_logo.jpg" width="16", height="16"></a>
+&& lvyan"
 colophon: "© llsw.lkgame.com <br> @2017"
 baseurl: "https://llsw.github.io/"
 url: "https://llsw.github.io/"
